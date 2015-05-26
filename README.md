@@ -8,7 +8,7 @@ You can either download the Counter.py file and put it in the directory with you
 Which you can place in the same directory.
 
 Roadmap:
-Add integration to copy all documents into one file, suitable for agencies that need to check your calculations
-Add Gmail integration to be able to connect to your gmail, download relevant attachments into one folder
-Add header and footer counts
+Add integration to copy all documents into one file, suitable for agencies that need to check your calculations. 
+Add Gmail integration to be able to connect to your gmail, download relevant attachments into one folder. 
+Add header and footer counts. 
 
